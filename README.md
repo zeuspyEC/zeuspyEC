@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I'm a Software Engineering student continuously honing my skills.<br>💻 I enjoy developing programs using Java and working with SQL.<br>🐧 Currently, I'm learning about Linux.
+👨‍🎓 I'm a Software Engineering student continuously honing my skills.<br>💻 I enjoy developing programs using last tech and working with my soft skills!.<br>🐧 Currently, I'm learning about Linux.
 
 
 ## 🌐 Socials:
